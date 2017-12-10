@@ -1,8 +1,10 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using System.IO;
+
+//NEW STUFF HERE
 
 public class ScreenshotDisplayer : MonoBehaviour {
 
