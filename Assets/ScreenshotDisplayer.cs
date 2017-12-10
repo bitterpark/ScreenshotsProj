@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using System.IO;
 
 //NEW STUFF HERE
-
+//Change two
 public class ScreenshotDisplayer : MonoBehaviour {
 
 	[SerializeField]
